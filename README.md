@@ -1,21 +1,21 @@
-ο»Ώ# Meeting Agent - ΧΧΧΧ” 03
+# Meeting Agent - ξθμδ 03
 
-## ΧªΧ™ΧΧ•Χ¨
-Χ΅Χ•Χ›Χ AI ΧΧ•ΧΧ•Χ Χ•ΧΧ™ Χ”ΧΧ—Χ‘Χ¨ Χ‘Χ™Χ Gmail Χ•-Google Calendar.
+## ϊιΰεψ
+ρελο AI ΰεθεπεξι δξηαψ αιο Gmail ε-Google Calendar.
 
-## Χ§Χ•Χ“ Χ§Χ‘Χ•Χ¦Χ”
-bdikahadar  (ΧΆΧ“Χ›Χ Χ™ ΧΧ©Χ Χ”Χ§Χ‘Χ•Χ¦Χ” Χ©ΧΧ)
+## χεγ χαεφδ
+biu-he01  (ςγλπι μων δχαεφδ ωμκ)
 
-## Χ”Χ¨Χ¦Χ”
-1. Χ”ΧªΧ§Χ Χ™ ΧªΧΧ•Χ™Χ•Χª: python -m pip install google-auth-oauthlib google-auth-httplib2 google-api-python-client
-2. Χ”Χ¨Χ¦Χ™ OAuth: python oauth_setup.py
-3. Χ©ΧΧ™Χ—Χª ΧΧ™Χ™ΧΧ™ Χ‘Χ“Χ™Χ§Χ”: python send_test_emails.py
-4. Χ”Χ¤ΧΆΧΧª Χ”Χ΅Χ•Χ›Χ: python meeting_agent_simple.py
+## δψφδ
+1. δϊχπι ϊμειεϊ: python -m pip install google-auth-oauthlib google-auth-httplib2 google-api-python-client
+2. δψφι OAuth: python oauth_setup.py
+3. ωμιηϊ ξιιμι αγιχδ: python send_test_emails.py
+4. δτςμϊ δρελο: python meeting_agent_simple.py
 
-## Χ§Χ‘Χ¦Χ™Χ
-- oauth_setup.py - Χ”Χ’Χ“Χ¨Χª Χ”Χ¨Χ©ΧΧ•Χª
-- send_test_emails.py - Χ™Χ¦Χ™Χ¨Χª ΧΧ™Χ™ΧΧ™ Χ‘Χ“Χ™Χ§Χ”
-- meeting_agent_simple.py - Χ”Χ΅Χ•Χ›Χ Χ”ΧΧ•ΧΧ•Χ Χ•ΧΧ™
-- PRD.md - ΧΧ΅ΧΧ Χ“Χ¨Χ™Χ©Χ•Χª
-- PLAN.md - ΧªΧ›Χ Χ™Χª ΧΆΧ‘Χ•Χ“Χ”
-- TODO.md - Χ¨Χ©Χ™ΧΧª ΧΧ©Χ™ΧΧ•Χª
+## χαφιν
+- oauth_setup.py - δβγψϊ δψωΰεϊ
+- send_test_emails.py - ιφιψϊ ξιιμι αγιχδ
+- meeting_agent_simple.py - δρελο δΰεθεπεξι
+- PRD.md - ξρξκ γψιωεϊ
+- PLAN.md - ϊλπιϊ ςαεγδ
+- TODO.md - ψωιξϊ ξωιξεϊ

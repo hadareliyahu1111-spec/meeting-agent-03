@@ -1,4 +1,4 @@
-﻿# Meeting Agent - Assignment 03
+# Meeting Agent - Assignment 03
 
 ## Group Code
 **biu-he01**
